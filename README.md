@@ -47,7 +47,7 @@ Software Engineering Student • Full Stack MERN Developer • AWS Cloud Learner
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite" />
+<img src="https://skillicons.dev/icons?i=react,redux,nextjs,html,css,tailwind,vite" />
 
 ### Backend
 
